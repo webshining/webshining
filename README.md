@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Artem</h1>
 <h3 align="center">Full stack developer from Unkraine</h3>
 
-- 🌱 I’m currently learning **RTMP**
+<!-- - 🌱 I’m currently learning **RTMP** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
