@@ -3,8 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discordapp.com/users/674204024756633610" target="blank"><img align="center" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/svg/discord.svg" alt="discordapp.com/users/674204024756633610" height="30" width="40" /></a>
-<a href="https://t.me/webshining" target="blank"><img align="center" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/svg/telegram.svg" alt="t.me/webshining" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/674204024756633610" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Discord.svg" alt="discordapp.com/users/674204024756633610" height="30" width="40" /></a>
+<a href="https://t.me/webshining" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="t.me/webshining" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
