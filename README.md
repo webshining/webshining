@@ -34,7 +34,7 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/ExpressJS-Light.svg" alt="express" width="40" height="40"/> </a>
 <br/>
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Heroku.svg" alt="heroku" width="40" height="40"/> </a>  
-<a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/digitalocean_tile_logo_icon_170272.png" alt="digitalocean" width="40" height="40"/> </a>
+<a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/410/265/png-transparent-digitalocean-icon-hd-logo-thumbnail.png" alt="digitalocean" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Docker.svg" alt="docker" width="40" height="40"/> </a>
 <br/>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/> </a>
