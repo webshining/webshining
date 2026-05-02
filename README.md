@@ -50,7 +50,7 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Bash-Light.svg" alt="bash" style="width:40px;height:40px;" /></a>  
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webshining&show_icons=true&locale=en&layout=compact&exclude_repo=dotfiles" alt="webshining" /></p>
+<p><img align="left" src="https://github-readme-stats-nu-wine-76.vercel.app/api/top-langs?username=webshining&show_icons=true&locale=en&layout=compact&exclude_repo=dotfiles" alt="webshining" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webshining" alt="webshining" /></p>
 
