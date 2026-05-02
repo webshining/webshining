@@ -2,7 +2,7 @@
 <h3 align="center">Full stack developer from Ukraine</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="white-space:nowrap;">
 <a href="https://discordapp.com/users/674204024756633610" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Discord.svg" alt="discord" width="40" height="40"/></a>
 <a href="https://t.me/webshining" target="_blank" rel="noreferrer"><img src="https://web.telegram.org/k/assets/img/android-chrome-192x192.png?v=jw3mK7G9Ry" alt="telegram" width="40" height="40"/></a>
 </p>
