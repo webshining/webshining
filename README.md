@@ -55,6 +55,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webshining" alt="webshining" /></p>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2036%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -72,6 +74,12 @@ VS Code                  5 hrs 26 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 Windows                  5 hrs 26 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 26/07/2026 19:44:22 UTC
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 27/07/2026 20:05:25 UTC
 <!--END_SECTION:waka-->
