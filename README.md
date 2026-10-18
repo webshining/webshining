@@ -63,42 +63,42 @@
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-TypeScript               9 hrs 16 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.85 % 
-Elixir                   5 hrs 52 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.04 % 
-YAML                     43 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.23 % 
-Other                    30 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.93 % 
-Bash                     24 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.34 % 
+Elixir                   5 hrs 21 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.70 % 
+TypeScript               3 hrs 5 mins        ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.81 % 
+Rust                     1 hr 41 mins        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.15 % 
+YAML                     41 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.83 % 
+Other                    28 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.96 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 12 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.82 % 
-Copilot CLI              1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.18 % 
+VS Code                  11 hrs 57 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.75 % 
+Copilot CLI              1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.25 % 
 
 💻 Operating System: 
-Windows                  17 hrs 14 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Windows                  11 hrs 58 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (2.0%)
+⏱ AI Coding Time: 20 mins (2.88%)
 
-✍️ 1 lines written by AI, 2,675 lines written by hand (0.04% AI-written)
+✍️ 1 lines written by AI, 1,872 lines written by hand (0.05% AI-written)
 
-🔤 44,596,789 Input Tokens, 4,391,935 Output Tokens
+🔤 54,582 Input Tokens, 8,904 Output Tokens
 
-💵 $33.43 Estimated AI Cost This Week
+💵 $0.03 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 1 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
 GPT                      1 lines             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.04% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.05% of written lines came from AI
 📝 Concise Prompter — average 235 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 99.98% of changed lines were hand-edited
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 99.97% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/10/2026 20:51:08 UTC
+ Last Updated on 18/10/2026 20:57:33 UTC
 <!--END_SECTION:waka-->
